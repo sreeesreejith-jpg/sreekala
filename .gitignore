@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+.idea/
+*.log
+*.apk
+*.keystore
+keystore_b64.txt
+android/gradle.properties
